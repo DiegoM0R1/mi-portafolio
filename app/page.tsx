@@ -37,7 +37,7 @@ export default function Home() {
     <div className="mt-10 flex justify-center lg:justify-start gap-4">
       <a
       rel="noopener noreferrer"
-        href="https://linkedin.com/in/diegozulueta"
+        href="https://www.linkedin.com/in/diego-alejandro-zulueta-mori-813b85288/"
         target="_blank"
         className="bg-cyan-500 text-gray-900 font-medium py-3 px-6 rounded-lg hover:bg-cyan-400 transition-colors"
       >
