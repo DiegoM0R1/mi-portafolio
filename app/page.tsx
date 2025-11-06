@@ -58,7 +58,12 @@ export default function Home() {
       2. Columna Derecha: Modelo 3D
          En móvil: Ocupa una altura mínima de 400px.
          En desktop (lg:): Ocupa la otra mitad (lg:w-1/2) y toda la altura.
+
      --------------------------------- */}
+      <p className="text-center text-lg text-gray-300 mb-12 max-w-2xl mx-auto">
+      Interactivo: rota y haz zoom en el modelo 3D usando el mouse o el tacto.
+      Usa tus dos dedos
+    </p>
   <div className="relative w-full lg:w-1/2 h-full min-h-[400px] lg:min-h-0">
     <Spline
       scene="https://prod.spline.design/Z-WLptj39RFZnz-g/scene.splinecode"
